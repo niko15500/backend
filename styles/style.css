@@ -1,0 +1,39 @@
+
+
+
+h1{
+    background-color: aqua;
+}
+
+.ContainerH1{
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+    margin: 1%;
+    padding: 7%;
+}
+
+.titulo{
+    font-size: 300px;
+    font-style: italic;
+    display: flex;
+    
+    font-style: 300px;
+    justify-content: center;
+}
+.container-fluid{
+    background-color: aqua;
+    font-size: 40px;
+    
+    
+    
+}
+.nav-link{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: 300px;
+    text-align: center;
+    margin-inline-start: 600px;
+    scroll-margin-block: 30px;
+}

@@ -1,0 +1,78 @@
+
+.header{
+    background-color: rgb(200, 184, 95);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+h1{
+    background-color: black;
+    margin: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.ContainerH1{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+
+}
+
+.titulo{
+    font-size: 300px;
+    font-style: italic;
+    display: flex;
+    
+    font-style: 300px;
+    justify-content: center;
+}
+.container-fluid{
+    background-color: rgb(200, 184, 95);
+    font-size: 70px;
+    
+    
+    
+}
+.nav-link{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: 300px;
+    text-align: center;
+    margin-inline-start: 250px;
+    scroll-margin-block: 30px;
+}
+.cuerpo{    
+    background-color: black;
+}
+#p{
+    
+    font-style: black, bold;
+    text-decoration: none;
+    font-family: black, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    inline-size: 10px;
+    position: relative;
+    color: rgba(128, 128, 128, 0.757);
+    
+    
+}
+
+.logo{
+  margin-left: 0px;
+  margin-bottom: 0px;
+  position: relative;
+  float: left; height: 100px;
+  margin-right: 20px;
+  
+
+  
+}
+#f{
+    position: relative;
+    position: relative;
+    top: 100%;
+    margin-top: 50px;
+}
+.foto{
+    height: 100%;
+    width: 100%;
+}
